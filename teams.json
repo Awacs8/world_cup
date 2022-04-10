@@ -1,0 +1,370 @@
+[
+  [
+    {
+      "state": "Katar",
+      "rank": 51,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    },
+    {
+      "state": "Ekvador",
+      "rank": 46,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    },
+    {
+      "state": "Senegal",
+      "rank": 20,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    },
+    {
+      "state": "Holandija",
+      "rank": 10,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    }
+  ],
+  [
+    {
+      "state": "Engleska",
+      "rank": 5,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    },
+    {
+      "state": "Iran",
+      "rank": 21,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    },
+    {
+      "state": "SAD",
+      "rank": 15,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    },
+    {
+      "state": "Ukrajna",
+      "rank": 27,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    }
+  ],
+  [
+    {
+      "state": "Argentina",
+      "rank": 4,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    },
+    {
+      "state": "Saudijska Arabija",
+      "rank": 49,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    },
+    {
+      "state": "Meksiko",
+      "rank": 9,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    },
+    {
+      "state": "Poljska",
+      "rank": 27,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    }
+  ],
+  [
+    {
+      "state": "Francuska",
+      "rank": 3,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    },
+    {
+      "state": "Peru",
+      "rank": 22,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    },
+    {
+      "state": "Danska",
+      "rank": 11,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    },
+    {
+      "state": "Tunis",
+      "rank": 35,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    }
+  ],
+  [
+    {
+      "state": "Spanija",
+      "rank": 7,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    },
+    {
+      "state": "Novi Zeland",
+      "rank": 101,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    },
+    {
+      "state": "Nemacka",
+      "rank": 12,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    },
+    {
+      "state": "Japan",
+      "rank": 23,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    }
+  ],
+  [
+    {
+      "state": "Belgija",
+      "rank": 2,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    },
+    {
+      "state": "Kanada",
+      "rank": 38,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    },
+    {
+      "state": "Maroko",
+      "rank": 24,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    },
+    {
+      "state": "Hrvatska",
+      "rank": 16,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    }
+  ],
+  [
+    {
+      "state": "Brazil",
+      "rank": 1,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    },
+    {
+      "state": "Srbija",
+      "rank": 25,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    },
+    {
+      "state": "Svajcarska",
+      "rank": 14,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    },
+    {
+      "state": "Kamerun",
+      "rank": 37,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    }
+  ],
+  [
+    {
+      "state": "Portugal",
+      "rank": 8,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    },
+    {
+      "state": "Gana",
+      "rank": 60,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    },
+    {
+      "state": "Urugvaj",
+      "rank": 13,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    },
+    {
+      "state": "Juzna Koreja",
+      "rank": 29,
+      "wons": 0,
+      "draw": 0,
+      "lost": 0,
+      "scored": 0,
+      "conceded": 0,
+      "total_points": 0,
+      "won_teams": []
+    }
+  ]
+]
